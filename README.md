@@ -61,3 +61,12 @@ The investigation successfully demonstrated how SHA-256 hashing can be used to v
 The results highlight the importance of maintaining reliable evidence baselines and documenting changes during forensic examinations.
 
 **Limitations:** This project uses synthetic evidence. Hash verification can detect changes relative to a trusted baseline but does not independently establish chain of custody or prove malicious intent.
+
+
+## Investigation Screenshots
+
+### Original Evidence Verification
+![Successful SHA-256 verification](screenshots/evidenceverified.jpg)
+
+### Evidence Tampering Detection
+![Modified evidence detected](screenshots/verifiedmodified.jpg)
