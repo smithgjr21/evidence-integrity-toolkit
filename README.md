@@ -69,4 +69,4 @@ The results highlight the importance of maintaining reliable evidence baselines 
 ![Successful SHA-256 verification](screenshots/evidenceverified.jpg)
 
 ### Evidence Tampering Detection
-![Modified evidence detected](screenshots/verified modified.jpg)
+![Modified evidence detected](screenshots/verified%20modified.jpg)
