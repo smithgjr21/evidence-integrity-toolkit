@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+manifest.json
+report.json
+timeline.json
+.DS_Store
